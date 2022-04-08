@@ -1,0 +1,38 @@
+body {
+    background-color: #f5cb5c;
+    font-family: "Lobster", cursive;
+}
+
+h1 {
+    font-size: 4.2rem;
+    font-weight: bold;
+    text-align: center;
+    color: #0496ff;
+}
+
+.botones {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+input {
+    width: 100px;
+    height: 40px;
+    font-size: 24px;
+    margin: 15px 10px;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: #be0aff;
+    box-shadow: 0 0 5px #be0aff;
+    font-family: "Lobster", cursive;
+}
+
+#result {
+    font-size: 24px;
+    text-align: center;
+}
